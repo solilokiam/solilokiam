@@ -1,5 +1,15 @@
-### Miquel Company--@solilokiam
-Hi! I'm Miquel--a senior fullstack developer working @kodify. I just love to understand how things work and try to approach new problems always with begginer mindset and curiosity.
+### Miquel Company @solilokiam
+👋 I'm Miquel, a senior fullstack developer working @kodify. I just love to understand how things work and try to approach new problems always with begginer mindset and curiosity.
+
+## Personal Stats
+What | Units
+---- | -----
+🎂 | 38
+👦 | 1
+👧 | 1
+🐶 | 1
+🏍 | 1
+
 <!--
 **solilokiam/solilokiam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
