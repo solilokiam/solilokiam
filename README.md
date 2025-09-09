@@ -1,10 +1,10 @@
 ### Miquel Company @solilokiam
-👋 I'm Miquel, a senior fullstack developer working @landbot. I just love to understand how things work and try to approach new problems always with begginer mindset and curiosity.
+👋 I'm Miquel, a Engineer Manager working @landbot. I just love to understand how things work and try to approach new problems always with begginer mindset and curiosity.
 
 ## Personal Stats
 What | Units
 ---- | -----
-🎂 | 42
+🎂 | 43
 👦 | 1
 👧 | 1
 🐶 | 1
